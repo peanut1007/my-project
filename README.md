@@ -1,2 +1,1 @@
-# my-project
-Git Lab for HS611
+# What's the first commit?\n
