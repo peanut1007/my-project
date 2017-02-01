@@ -1,1 +1,1 @@
-print 'I am a simple Python script'
+print 'Add a Readme, basic Python module, and a blank data file'
